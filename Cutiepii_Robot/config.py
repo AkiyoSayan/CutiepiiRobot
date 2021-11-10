@@ -16,10 +16,18 @@ class Config(object):
 
     API_ID =  3898519 # integer value, dont use ""
     API_HASH = "awoo"
+    APP_ID = 3898519
+    APP_HASH = "kek"
+    MONGO_DB_URL = ""
+    REDIS_URL = ""
+    BOT_ID = 10299
+    BOT_USERNAME = ""
     TOKEN = "BOT_TOKEN"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
     OWNER_ID = 1352499461 # If you dont know, run the bot and do /id in your private chat with it, also an integer
     OWNER_USERNAME = "ihaveenoughhate"
     ALLOW_CHATS = ""
+    ERROR_LOGS = ""
+    
     SUPPORT_CHAT = "foundingtitansupport"  # Your own group for support, do not add the @
     JOIN_LOGGER = (
         -1001306188318
