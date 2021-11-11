@@ -20,6 +20,7 @@ class Config(object):
     APP_HASH = "kek"
     TEMP_DOWNLOAD_DIRECTORY = ""
     MONGO_DB_URL = ""
+    OPENWEATHERMAP_ID = ""
     REDIS_URL = ""
     BOT_ID = 10299
     REM_BG_API_KEY = ""
