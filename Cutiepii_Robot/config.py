@@ -48,6 +48,9 @@ class Config(object):
     INFOPIC = True
     STRING_SESSION = ""
     GENIUS_API_TOKEN = ""
+    CUTIEPII_PHOTO = "" 
+    START_IMG = "" 
+    HELP_IMG = ""
     YOUTUBE_API_KEY = ""
     URL = None
     SPAMWATCH_API = ""  # go to support.spamwat.ch to get key
