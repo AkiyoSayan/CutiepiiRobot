@@ -18,6 +18,7 @@ class Config(object):
     API_HASH = "awoo"
     APP_ID = 3898519
     APP_HASH = "kek"
+    TEMP_DOWNLOAD_DIRECTORY = ""
     MONGO_DB_URL = ""
     REDIS_URL = ""
     BOT_ID = 10299
