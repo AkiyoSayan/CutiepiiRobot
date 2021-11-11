@@ -45,6 +45,9 @@ class Config(object):
     NO_LOAD = ["rss", "cleaner", "connection", "math"]
     WEBHOOK = False
     INFOPIC = True
+    STRING_SESSION = ""
+    GENIUS_API_TOKEN = ""
+    YOUTUBE_API_KEY = ""
     URL = None
     SPAMWATCH_API = ""  # go to support.spamwat.ch to get key
     SPAMWATCH_SUPPORT_CHAT = "@SpamWatchSupport"
