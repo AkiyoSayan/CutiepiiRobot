@@ -22,6 +22,7 @@ class Config(object):
     GOOGLE_CHROME_BIN = ""
     TEMP_DOWNLOAD_DIRECTORY = ""
     MONGO_DB_URL = ""
+    MONGO_DB = ""
     OPENWEATHERMAP_ID = ""
     REDIS_URL = ""
     ARQ_API_URL = ""
