@@ -25,6 +25,9 @@ class Config(object):
     ARQ_API_URL = ""
     BOT_ID = 10299
     REM_BG_API_KEY = ""
+    BOT_API_URL = ""
+    BOT_NAME = ""
+    BOT_API_URL = ""
     BOT_USERNAME = ""
     TOKEN = "BOT_TOKEN"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
     OWNER_ID = 1352499461 # If you dont know, run the bot and do /id in your private chat with it, also an integer
