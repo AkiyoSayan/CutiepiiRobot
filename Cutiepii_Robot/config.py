@@ -18,6 +18,8 @@ class Config(object):
     API_HASH = "awoo"
     APP_ID = 3898519
     APP_HASH = "kek"
+    CHROME_DRIVER = "" 
+    GOOGLE_CHROME_BIN = ""
     TEMP_DOWNLOAD_DIRECTORY = ""
     MONGO_DB_URL = ""
     OPENWEATHERMAP_ID = ""
