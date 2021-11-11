@@ -24,7 +24,7 @@ class Config(object):
     MONGO_DB_URL = ""
     MONGO_DB = ""
     OPENWEATHERMAP_ID = ""
-    REDIS_URL = ""
+    REDIS_URL = "redis://:pd5463ee33ca32d0a5655824973c0c5976980672a50bfdee062ddff205a35b7e7@ec2-34-197-156-12.compute-1.amazonaws.com:30379"
     ARQ_API_URL = ""
     BOT_ID = 10299
     REM_BG_API_KEY = ""
